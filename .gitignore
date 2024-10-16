@@ -1,0 +1,11 @@
+/shelf/
+/.idea/workspace.xml
+.gradle
+.idea
+build
+gradle
+notifications
+gradlew
+gradlew.bat
+settings.gradle
+/src/test/resources/login.properties
